@@ -1,0 +1,14 @@
+<data>
+    <country name="london">
+        <rank updated="yes">2</rank>
+        <year updated="no">2020</year>
+        <gdppc>2009</gdppc>
+        <neighbor directory="E" name="Austria" />
+    </country>
+    <country name="china">
+        <rank updated="yes">2</rank>
+        <year updated="no">2020</year>
+        <gdppc>2010</gdppc>
+        <neighbor directory="E" name="japan" />
+    </country>
+</data>

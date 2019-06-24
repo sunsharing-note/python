@@ -1,0 +1,27 @@
+
+class Action:
+
+    def __init__(self):
+        self.is_login =False
+        self.prev_home = '/User/Data' # C:\Users\Administrator\Desktop\EasyServerFTP、home
+        self.name = None # alex
+        # /User/Data/alex
+        
+      
+        
+        
+        
+xiaohu = UserInfo() # /User/Data/xiaohu 
+ls
+ls /User/Data/xiaohu 
+
+ls hello
+ls /User/Data/xiaohu/hello
+
+
+jinxin = UserInfo() # /User/Data/jinxin
+ls
+ls /User/Data/jinxin
+
+
+ 

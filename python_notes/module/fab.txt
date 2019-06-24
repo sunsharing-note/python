@@ -1,0 +1,7 @@
+[portal52]
+app@192.168.38.52:22 app_!QAZxsw2
+[portal53808183]
+app@192.168.38.53:22 app_!QAZxsw2
+app@192.168.38.80:22 app_!QAZxsw2
+app@192.168.38.81:22 app_!QAZxsw2
+app@192.168.38.83:22 app_!QAZxsw2

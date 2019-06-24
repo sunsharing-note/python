@@ -1,0 +1,19 @@
+d = ｛
+    用户名: {conn: conn1,'is_login':True,'user':asdf,asdfasdf},
+｝
+class 
+    def __init__(self):
+        self.name = 123
+        self.age = 123
+
+
+def get:
+    字典获取当前用户信息
+    self.is_login
+    d['username']['is_login'] 
+    
+
+def post:
+    字典获取当前用户信息
+
+

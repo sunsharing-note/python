@@ -1,0 +1,3 @@
+
+
+结果 = subprocess.getoutput('ls xiaohu.home')

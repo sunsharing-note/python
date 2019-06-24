@@ -1,0 +1,21 @@
+# python list and tuple
+
+len(list) 显示list的成员个数
+list.append('huazai') 追加成员
+list.pop() 删除list末尾成员
+list.add(1,'huazai') 追加至指定位置
+list.pop(1) 删除指定位置成员
+list[1]='huazai' 替换指定位置成员
+
+# tuple 成员在定义的时候就要确定下里 无法改变 不存在添加、删除、替换之类的 是说tuple的指向不可变 tuple的成员可以有list，list是可以改变的。
+t = (1, 2)
+# 当你定义一个tuple时，应该像下面这样
+
+t = (1,) # 也就是添加一个逗号
+
+>>> L
+[['Apple', 'Google', 'Microsoft'], ['Java', 'Python', 'Ruby', 'PHP'], ['Adam', 'Bart', 'Lisa']]
+>>> L[1]
+['Java', 'Python', 'Ruby', 'PHP']
+>>> L[1][2]
+'Ruby'

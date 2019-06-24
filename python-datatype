@@ -1,0 +1,25 @@
+# python的数据类型 整数  浮点数 字符串 布尔 空置  变量 常量 int a = 1 这种是静态变量 可使用动态变量进行多次赋值
+# a = "huazai" 做两件事：1、创建huazai字符串 2、创建变量a，并指向字符串“huazai”
+# 10 / 3 结果为浮点数；10 // 3 结果为整数
+# 一些特定的用法
+
+# 转义
+\进行转义
+
+# 不转义
+r''
+
+>>> print(r'''hello,\n
+... world''')
+hello,\n
+world
+
+# 多行
+'''...'''
+
+>>> print('''hello
+... world
+... I\'m huazai''')
+hello
+world
+I'm huazai
